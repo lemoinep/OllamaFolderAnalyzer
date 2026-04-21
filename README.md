@@ -2,7 +2,7 @@
 # Ollama Folder Analyzer 🛡️
 
 
-[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/lemoinep/Ollama_Folder_Analyzer)
+[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/lemoinep/OllamaFolderAnalyzer)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 
